@@ -275,6 +275,11 @@ nav li:hover {
   top: 30px;
 }
 
+.social {
+  height: 20px;
+  margin: 40px 5px 0 5px;
+}
+
 .twitter__button {
   background-color: #FF2765;
   display: inline-block;
@@ -407,7 +412,7 @@ section {
 .footer {
   background-color: #15191F;
   margin-top: 50px;
-  height: 125px;
+  height: 150px;
   position: relative;
   text-align: center;
 }
